@@ -12,4 +12,8 @@ This program allows you to enter your expenses and their categories through the 
 - Save a visualization breakdown of expenses to a PNG file.
 
 ## Example Screenshot
-<img width="624" alt="Screenshot 2024-03-08 at 1 23 35 AM" src="https://github.com/Ahmedabbas03/budget-buddy-expense-tracker/assets/86217781/7ca622d7-9add-4ff9-b2c4-f1f9ded16656">
+
+<img width="610" alt="Screenshot 2024-03-08 at 1 15 45 AM" src="https://github.com/Ahmedabbas03/budget-buddy-expense-tracker/assets/86217781/fece6941-6d7c-4236-98b8-527f7561f586">
+<img width="624![Uploading Screenshot 2024-03-08 at 1.15.45 AM.png…]()
+" alt="Screenshot 2024-03-08 at 1 23 35 AM" src="https://github.com/Ahmedabbas03/budget-buddy-expense-tracker/assets/86217781/7ca622d7-9add-4ff9-b2c4-f1f9ded16656">
+![expenses_by_category](https://github.com/Ahmedabbas03/budget-buddy-expense-tracker/assets/86217781/e247f6a3-fb74-43d0-891b-8148353e2559)
